@@ -4,7 +4,7 @@
 Author:Daniel Martinez
 Course: CSCI-135
 Instructor: Gennadiy Maryash
-Asignment: Lab1B
+Asignment: Lab1A
 
 This program asks the user to input two numbers.
 The first number is stored in the variable firstNum.
